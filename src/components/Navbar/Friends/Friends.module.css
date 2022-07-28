@@ -1,0 +1,16 @@
+.friend {
+  width: 50px;
+  padding: 10px;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  color: #ff4a11;
+  background-color: black;
+}
+
+.friend img {
+  width: 25px;
+  height: 25px;
+  border-radius: 50%;
+}

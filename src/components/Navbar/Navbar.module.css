@@ -1,0 +1,26 @@
+.nav {
+  padding: 10px;
+  grid-area: nav;
+  color: black;
+  background-color: #ff4a11;
+  box-shadow: 1px black;
+}
+
+.nav li {
+  padding: 10px;
+}
+
+.nav li a {
+  padding: 10px;
+}
+
+.active {
+  color: #ff4a11;
+  background-color: black;
+}
+.friends__inner {
+  margin-top: 25px;
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
